@@ -1,0 +1,26 @@
+01 - Cadastro de Usuário - A
+02 - Cadastro de Mesas - A
+03 - Cadastro de Fornecedores - A
+04 - Cadastro de Produtos - A
+05 - Compra de Matérias Primas - A
+06 - Alteração de Cadastro de Usuários - A
+07 - Alteração de Cadastro de Mesas - A
+08 - Alteração de Cadastro de Produtos - A
+09 - Alteração de Cadastro de Fornecedores - A
+10 - Realizar os Pedidos do Cliente - A
+11 - FeedBack - E
+12 - Compra de matéria prima - A
+13 - Realizar a troca de clientes de mesa - A
+14 - Desativação de usuário do sistema - A
+15 - Ativação de usuários do sistema - A 
+
+Cadastrar
+Alterar
+Pesquisar
+Excluir
+
+Diagramas
+
+Wireframes
+
+Protótipo das telas: Cadastro Cliente, Pedido, Pagamento 
